@@ -9,5 +9,5 @@
 Full stack Python and Django web developer bootcamp by Jose Portilla.
 Thibka's Pen - https://codepen.io/Thibka/pen/mWGxNj
 
-## :heavy_plus_sign: 
-Dependencies : -> Bootstrap v4.1.3 -> Django v2.1.7 -> Django-braces *latest -> Misaka v2.1.0 -> Font Awesome v5.7.2
+## :heavy_plus_sign: Dependencies
+Bootstrap v4.1.3 -> Django v2.1.7 -> Django-braces *latest -> Misaka v2.1.0 -> Font Awesome v5.7.2
