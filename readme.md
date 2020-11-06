@@ -3,7 +3,7 @@
 
 ## :mag_right: Preview
 
-![img](https://github.com/ravi19999/star-social/preview_star_social.gif?raw=true)
+![img](https://github.com/ravi19999/star-social/blob/master/preview_star_social.gif?raw=true)
 
 ## :notebook: Credits
 Full stack Python and Django web developer bootcamp by Jose Portilla.
